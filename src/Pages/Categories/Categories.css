@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.mainCategory{
+max-width: 1900px;
+margin: 0% auto;
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+align-items: center;
+background-color: #ffc40011;
+/* background: url("./stylish-scandinavian-living-room-with-design-mint-sofa-furnitures-mock-up-poster-map-plants-eleg\ \(1\).jpg");
+background-repeat: no-repeat; */
+
+}
+.container {
+    display: flex;
+    max-width: 80%;
+    height: 685px;
+    justify-content: center;
+    align-items: center;
+}
+#h1{
+    font-size: 60px;
+    padding: 40px 0 40px 0;
+}

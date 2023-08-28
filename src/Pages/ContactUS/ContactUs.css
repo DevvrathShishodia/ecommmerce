@@ -1,0 +1,81 @@
+.formpage{
+    max-width: 1900px;
+margin: 0% auto;
+}
+.contactForm{
+display: flex;
+justify-content: space-evenly;
+}
+.leftform{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f0c55b;
+    
+}
+.upperleftform h1{
+    font-size: 52px;
+    margin: 15px 0 15px 0;
+    color: #183D3D;
+}
+.upperleftform h2{
+    font-size: 32px;
+    margin: 15px 0 15px 0;
+}
+.upperleftform span{
+    color: #183D3D;
+}
+.lowerleftform{
+    width: 567px;
+    height: 513px;
+}
+.lowerleftform img{
+    width: 567px;
+    height: 513px;
+    
+}
+.rightform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+width: 100%;
+background-color: #f8f0c55b;
+/* border: 3px solid red; */
+}
+.rightform h1{
+    font-size: 52px;
+    margin: 15px 0 15px 0;
+}
+.rightform h2{
+    font-size: 32px;
+    margin: 15px 0 15px 0;
+}
+.form{
+
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    width: 97%;
+    height: 97%;
+}
+
+form{
+    height: 99%;
+    width: 80%;
+    margin-left: 150px;
+}
+input{
+    width: 80%;
+    height: 50px;
+    font-size: 30px;
+    border: 2px solid rgba(0, 0, 0, 0.121);
+}
+label{
+    font-size: 40px;
+}

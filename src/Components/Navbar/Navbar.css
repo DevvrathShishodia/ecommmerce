@@ -1,0 +1,33 @@
+.main{
+    max-width: 1900px;
+    margin: 0% auto;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    background-color: #183D3D;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+.rightnav{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.leftnav{
+    font-size: 25px;
+}
+.rightnav li{
+    padding: 0 20px 0 20px;
+}
+a>li{
+    color: rgb(255, 255, 255);
+}
+a>h1{
+    color: rgb(255, 255, 255);
+}
+
